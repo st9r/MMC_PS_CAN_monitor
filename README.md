@@ -1,9 +1,9 @@
 # MMC_PS_CAN_monitor
 CANBUS Engine &amp; AT temperature monitor <br>
 Required: 
-- Arduino Uno
+- Arduino Nano 
 - MCP2515 CanBus Shield
-- Oled Display 0,91" SSD1306 128x32 or similar
+- OLED Display 0,91" SSD1306 128x32 or similar
 - DC-DC step down converter (or you can use USB power supply)
 - OBD II Connector 
 - Capacitive button module such as TTP223
