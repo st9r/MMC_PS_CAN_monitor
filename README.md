@@ -56,7 +56,7 @@ Added temperature from ECU and instrument clustere (slow) and temp. readings fro
 All will work out of the box on MMCNA Galant IX DM1A 2.4L  
 
 
-Example of installing OLED display in seatbelt indicator lamp cap:
-
-
+Example of installing OLED display in seatbelt indicator lamp cap:<br>
+![](scr1.jpg)
+<br>
 Enjoy) 
