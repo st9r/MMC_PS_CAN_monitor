@@ -42,6 +42,7 @@ A3 ->	I/O <br>
 <b>OBD + MCP2515</b><br>
 Can H	-> OBD pin 6 <br>
 Can L ->	OBD pin 14 <br>
+
 Termination resistor not req. if connecting thru OBD connector.
 
 
@@ -51,7 +52,7 @@ You can connect to USB and catch all canbus traffic from 500kBps line (if connec
 Data will be shown in following format: ID  DLC   DATA <br>
 
 You can decode more parameters and add more pages to display. Switching pages avail. by touching button. 
-Added temperature from ECU and instrument clustere (slow) and temp. readings from AT ECU. 
+Added temperature from ECU and instrument cluster (slow) and temp. readings from AT ECU. 
 <br>
 All will work out of the box on MMCNA Galant IX DM1A 2.4L  
 
