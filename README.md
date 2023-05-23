@@ -25,7 +25,7 @@ A5 ->	SCL <br>
 A4 ->	SDA <br>
 
 <b>MCP2515</b><br>
-Vin	-> 5V <br>
+5V	-> VCC <br>
 GND ->	GND <br>
 D2 ->	INT <br>
 D10 ->	CS <br>
