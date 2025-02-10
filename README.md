@@ -1,4 +1,4 @@
-# MMC_PS_CAN_monitor
+# Mitsubishi PS Platform CAN temperature monitor
 CANBUS Engine &amp; AT temperature monitor <br>
 Required: 
 - Arduino Nano 
